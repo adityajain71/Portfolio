@@ -119,10 +119,10 @@ const About = () => {
                 </Bio>
                 
                 <SocialLinks>
-                  <SocialLink href="https://github.com/yourusername" target="_blank" rel="noopener noreferrer" aria-label="GitHub">
+                  <SocialLink href="https://github.com/adityajain71" target="_blank" rel="noopener noreferrer" aria-label="GitHub">
                     <FaGithub size={20} />
                   </SocialLink>
-                  <SocialLink href="https://linkedin.com/in/yourusername" target="_blank" rel="noopener noreferrer" aria-label="LinkedIn">
+                  <SocialLink href="https://linkedin.com/in/aditya-jain-07357328b/" target="_blank" rel="noopener noreferrer" aria-label="LinkedIn">
                     <FaLinkedin size={20} />
                   </SocialLink>
                 </SocialLinks>
