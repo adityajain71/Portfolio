@@ -1,0 +1,9 @@
+{
+  "short_name": "Aditya's Portfolio",
+  "name": "Aditya's Portfolio - Full Stack Developer",
+  "icons": [],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#0366d6",
+  "background_color": "#ffffff"
+}

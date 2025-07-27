@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1dad2027.css",
+    "main.js": "/static/js/main.d3ba943c.js",
+    "static/media/Aditya's Resume.pdf": "/static/media/Aditya's Resume.2525163b3dc7b82726c1.pdf",
+    "static/media/image.png": "/static/media/image.c46a402eafac882e2034.png",
+    "static/media/profile.jpg": "/static/media/profile.a473049aebf88c846aef.jpg",
+    "static/media/jpg": "/static/media/bae554ab61f847e4a06211dc9e7fd0f5.69505738390b06ee25a5.jpg",
+    "index.html": "/index.html",
+    "main.1dad2027.css.map": "/static/css/main.1dad2027.css.map",
+    "main.d3ba943c.js.map": "/static/js/main.d3ba943c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1dad2027.css",
+    "static/js/main.d3ba943c.js"
+  ]
+}
